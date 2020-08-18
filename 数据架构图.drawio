@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-08-18T11:12:30.765Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="3TlDBbVpGN50H-bfRtVV" version="13.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-08-18T11:19:55.984Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="IWbxMg6fbjZ87GJyW9L3" version="13.5.5" type="github">
   <diagram id="SUA77PbycbYVvd3b78xJ" name="第 1 页">
-    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="_BwWZOYq04hog9lbWKIB-8" value="Spark Streaming" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="483" y="300" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_BwWZOYq04hog9lbWKIB-9" value="平台日志" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="_BwWZOYq04hog9lbWKIB-9" value="平台广告日志" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="254" y="480" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_BwWZOYq04hog9lbWKIB-10" value="游戏日志" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -64,11 +64,11 @@
         <mxCell id="_BwWZOYq04hog9lbWKIB-39" value="Presto" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="594.5" y="300" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_BwWZOYq04hog9lbWKIB-42" value="数据分析结果库" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="372" y="190" width="97" height="65" as="geometry" />
+        <mxCell id="_BwWZOYq04hog9lbWKIB-42" value="广告数据分析结果库" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="185.5" y="200" width="97" height="65" as="geometry" />
         </mxCell>
         <mxCell id="_BwWZOYq04hog9lbWKIB-43" value="" style="line;strokeWidth=2;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="9" y="180" width="810" height="10" as="geometry" />
+          <mxGeometry x="-140" y="180" width="959" height="10" as="geometry" />
         </mxCell>
         <mxCell id="_BwWZOYq04hog9lbWKIB-44" value="广告后台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="324.5" y="110" width="120" height="60" as="geometry" />
@@ -126,6 +126,27 @@
         </mxCell>
         <mxCell id="_BwWZOYq04hog9lbWKIB-64" value="" style="line;strokeWidth=2;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="149" y="374" width="561" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_BwWZOYq04hog9lbWKIB-65" value="游戏分析结果库" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="97" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="_BwWZOYq04hog9lbWKIB-66" value="TIDB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="200" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="_BwWZOYq04hog9lbWKIB-67" value="海外平台日志" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="490" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_BwWZOYq04hog9lbWKIB-68" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.26666666666666666;arrowSize=0.3;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="450" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_BwWZOYq04hog9lbWKIB-69" value="海外平台实时报表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_BwWZOYq04hog9lbWKIB-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="34.5" y="685" width="31" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_BwWZOYq04hog9lbWKIB-71" value="海外平台实时数据报表（计划淘汰））" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="83.5" y="680" width="256.5" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
