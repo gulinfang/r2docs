@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-08-18T11:10:44.853Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="a48JX6OfAeAJqkZyg8c5" version="13.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-08-18T11:11:36.553Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="18n338oi1S2WgWhnUL17" version="13.5.5" type="github">
   <diagram id="SUA77PbycbYVvd3b78xJ" name="第 1 页">
     <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,9 +12,6 @@
         </mxCell>
         <mxCell id="_BwWZOYq04hog9lbWKIB-3" value="Hive" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;gradientColor=#d5739d;fillColor=#e6d0de;strokeColor=#996185;" vertex="1" parent="1">
           <mxGeometry x="249" y="300" width="85" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_BwWZOYq04hog9lbWKIB-4" value="Spark" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="349" y="305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_BwWZOYq04hog9lbWKIB-5" value="Kafka" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="489" y="390" width="91" height="40" as="geometry" />
