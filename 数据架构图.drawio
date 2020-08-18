@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-08-18T11:19:55.984Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="IWbxMg6fbjZ87GJyW9L3" version="13.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-08-18T11:20:15.723Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="c7w2Ji20PkI7AQYLuhrA" version="13.5.5" type="github">
   <diagram id="SUA77PbycbYVvd3b78xJ" name="第 1 页">
     <mxGraphModel dx="2249" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -140,7 +140,7 @@
           <mxGeometry x="-85" y="450" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_BwWZOYq04hog9lbWKIB-69" value="海外平台实时报表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="-111" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_BwWZOYq04hog9lbWKIB-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="34.5" y="685" width="31" height="10" as="geometry" />
